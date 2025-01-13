@@ -1,0 +1,5 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4aba0096-8d92-4cfe-92ff-afc83d284e87/resourceGroups/RatneshChaudhary/providers/Microsoft.Web/sites/RatneshWedding",
+    "appService.deploySubpath": ".",
+    "liveServer.settings.port": 5502
+}
